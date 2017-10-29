@@ -8,7 +8,7 @@ project's rules.
 Then, a handful of people took the challenge to build an awesome platform and as
 a consequence of their hard work, their platform _earned_ its hegemony.
 
-Nowadays doing Open Source is infinitely easier thanks to you, GitHub. You've
+Nowadays doing Open Source is infinitely easier;thanks to you, GitHub. You've
 provided the tools and the social conventions to make those days a thing of the
 past. Your impact in the Open Source movement is unprecedented.
 
